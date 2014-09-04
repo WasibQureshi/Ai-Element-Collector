@@ -1,0 +1,27 @@
+-------------------------------------
+How to  Install Ai Element Collector:
+-------------------------------------
+
+Copy "Ai Element Collector.jsx" script & paste it in to your respective folder..
+(Remember to check your Adode Illustrator CS version)
+
+** Windows 64bit Path:
+C:/Program Files/Adobe/Adobe Illustrator CS4/Presets/en_US/Scripts
+
+
+** Windows 32bit Path:
+C:/Program Files (x86)/Adobe/Adobe Illustrator CS4/Presets/en_US/Scripts
+
+
+** Mac Path:
+/Applications/Adobe Illustrator CS4/Presets/en_US/Scripts
+
+----------------------------------------------------
+
+Once you place the script in your respective folder.
+
+You can access it in After Illustrator File Menu -> Scripts -> Ai Element Collector.jsx
+
+----------------------------------------------------
+
+Thank you for using this script. :)
